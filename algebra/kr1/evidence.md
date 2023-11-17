@@ -2,7 +2,7 @@
 title: Доказательства к КР1
 description: 
 published: true
-date: 2023-11-07T19:49:02.384Z
+date: 2023-11-07T19:49:04.950Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-07T19:49:02.384Z

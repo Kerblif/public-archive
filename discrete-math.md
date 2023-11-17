@@ -2,7 +2,7 @@
 title: Дискретная математика
 description: 
 published: true
-date: 2023-11-07T08:15:30.576Z
+date: 2023-11-07T08:21:16.038Z
 tags: 
 editor: markdown
 dateCreated: 2023-10-21T20:53:40.187Z

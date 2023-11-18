@@ -2,10 +2,10 @@
 title: Лекция 10. Строки.
 description: 
 published: true
-date: 2023-11-17T20:55:59.808Z
+date: 2023-11-18T20:18:59.112Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:55:59.096Z
+dateCreated: 2023-10-25T11:53:23.134Z
 ---
 
 # Лекция 10. Строки.

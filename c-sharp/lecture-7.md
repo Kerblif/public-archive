@@ -2,10 +2,10 @@
 title: Лекция 7. Массивы.
 description: 
 published: true
-date: 2023-11-17T20:56:06.970Z
+date: 2023-11-18T20:19:17.038Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:56:06.232Z
+dateCreated: 2023-10-23T20:32:44.058Z
 ---
 
 # Лекция 7. Массивы.

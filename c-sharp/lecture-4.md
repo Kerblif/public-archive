@@ -2,10 +2,10 @@
 title: Лекция 4. Алгоритмические структуры.
 description: 
 published: true
-date: 2023-11-17T20:56:03.879Z
+date: 2023-11-18T20:19:09.369Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:56:03.186Z
+dateCreated: 2023-10-24T17:28:59.333Z
 ---
 
 # Лекция 4. Алгоритмические структуры.

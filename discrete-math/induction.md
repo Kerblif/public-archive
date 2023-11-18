@@ -2,10 +2,10 @@
 title: Индукция
 description: 
 published: true
-date: 2023-11-17T20:56:10.225Z
+date: 2023-11-18T20:19:25.685Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:56:09.248Z
+dateCreated: 2023-10-21T21:23:02.484Z
 ---
 
 # Индукция

@@ -2,10 +2,10 @@
 title: Лекция 6. Перегрузка методов.
 description: 
 published: true
-date: 2023-11-17T20:56:05.918Z
+date: 2023-11-18T20:19:14.398Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:56:05.208Z
+dateCreated: 2023-10-24T20:38:40.594Z
 ---
 
 # Лекция 6. Перегрузка методов.

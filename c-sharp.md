@@ -2,10 +2,10 @@
 title: C#
 description: 
 published: true
-date: 2023-11-17T20:56:09.245Z
+date: 2023-11-18T20:18:41.681Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-17T20:55:53.107Z
+dateCreated: 2023-10-23T20:19:57.884Z
 ---
 
 # C#

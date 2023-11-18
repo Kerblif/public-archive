@@ -2,10 +2,10 @@
 title: Логика
 description: 
 published: true
-date: 2023-10-22T15:32:10.124Z
+date: 2023-11-17T20:56:13.169Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-21T17:31:32.930Z
+dateCreated: 2023-11-17T20:56:12.049Z
 ---
 
 # Логика

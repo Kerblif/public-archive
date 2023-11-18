@@ -2,10 +2,10 @@
 title: Математический анализ
 description: 
 published: true
-date: 2023-11-13T19:19:12.735Z
+date: 2023-11-17T20:56:15.792Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-11T14:54:24.326Z
+dateCreated: 2023-11-17T20:55:56.162Z
 ---
 
 # Математический анализ

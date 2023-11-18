@@ -2,10 +2,10 @@
 title: Определения к КР1
 description: 
 published: true
-date: 2023-11-07T20:44:20.576Z
+date: 2023-11-17T20:56:16.630Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-07T19:48:36.376Z
+dateCreated: 2023-11-17T20:56:15.796Z
 ---
 
 # Определения к КР1

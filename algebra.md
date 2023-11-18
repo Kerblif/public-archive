@@ -2,10 +2,10 @@
 title: Алгебра
 description: 
 published: true
-date: 2023-11-01T19:22:07.207Z
+date: 2023-11-17T20:55:52.785Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-01T19:22:04.825Z
+dateCreated: 2023-11-17T20:55:52.090Z
 ---
 
 # Алгебра

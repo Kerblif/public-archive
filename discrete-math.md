@@ -2,10 +2,10 @@
 title: Дискретная математика
 description: 
 published: true
-date: 2023-11-07T08:21:16.038Z
+date: 2023-11-17T20:56:14.786Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-21T20:53:40.187Z
+dateCreated: 2023-11-17T20:55:54.161Z
 ---
 
 ## Теория

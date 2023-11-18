@@ -2,10 +2,10 @@
 title: Лекция 8. Зубчатые массивы.
 description: 
 published: true
-date: 2023-10-24T23:25:22.794Z
+date: 2023-11-17T20:56:07.962Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-24T22:38:50.303Z
+dateCreated: 2023-11-17T20:56:07.289Z
 ---
 
 # Лекция 8. Зубчатые массивы.

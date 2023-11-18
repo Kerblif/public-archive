@@ -2,10 +2,10 @@
 title: Материалы для подготовки к КР1
 description: 
 published: true
-date: 2023-11-07T19:48:11.700Z
+date: 2023-11-17T20:55:57.810Z
 tags: 
 editor: markdown
-dateCreated: 2023-11-01T19:22:59.725Z
+dateCreated: 2023-11-17T20:55:57.151Z
 ---
 
 # Материалы для подготовки к КР1

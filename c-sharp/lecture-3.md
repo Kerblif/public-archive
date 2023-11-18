@@ -2,10 +2,10 @@
 title: Лекция 3. Операторы и операции.
 description: 
 published: true
-date: 2023-10-25T16:48:49.096Z
+date: 2023-11-17T20:56:02.864Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-24T14:14:26.052Z
+dateCreated: 2023-11-17T20:56:02.146Z
 ---
 
 # Лекция 3. Операторы и операции.

@@ -2,10 +2,10 @@
 title: Лекция 2. Типы данных.
 description: 
 published: true
-date: 2023-10-24T13:22:19.551Z
+date: 2023-11-17T20:56:01.826Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-23T22:19:08.341Z
+dateCreated: 2023-11-17T20:56:01.089Z
 ---
 
 # Лекция 2. Типы данных.

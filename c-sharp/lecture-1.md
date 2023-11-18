@@ -2,10 +2,10 @@
 title: Лекция 1. Вводная.
 description: 
 published: true
-date: 2023-10-24T18:02:44.385Z
+date: 2023-11-17T20:55:58.781Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-23T21:54:32.277Z
+dateCreated: 2023-11-17T20:55:58.123Z
 ---
 
 # Лекция 1. Вводная.

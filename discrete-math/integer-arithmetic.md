@@ -2,10 +2,10 @@
 title: Арифметика целых чисел
 description: 
 published: true
-date: 2023-10-22T14:59:06.403Z
+date: 2023-11-17T20:56:11.709Z
 tags: 
 editor: markdown
-dateCreated: 2023-10-21T20:57:55.371Z
+dateCreated: 2023-11-17T20:56:10.546Z
 ---
 
 # Арифметика целых чисел

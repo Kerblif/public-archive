@@ -2,7 +2,7 @@
 title: Коллоквиум №1
 description: 
 published: true
-date: 2023-11-18T20:19:40.533Z
+date: 2023-11-18T21:54:55.159Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-11T14:55:38.133Z

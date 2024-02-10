@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T15:18:09.617Z
+date: 2024-02-10T15:19:48.601Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -26,11 +26,11 @@ dateCreated: 2024-02-10T14:59:30.448Z
 - [Билет №14](/matan/kollok2/14)
 - [Билет №15](/matan/kollok2/15)
 - [Билет №16](/matan/kollok2/16)
-- [Билет №13](/matan/kollok2/17)
-- [Билет №14](/matan/kollok2/18)
-- [Билет №15](/matan/kollok2/19)
-- [Билет №16](/matan/kollok2/20)
-- [Билет №13](/matan/kollok2/21)
-- [Билет №14](/matan/kollok2/22)
-- [Билет №15](/matan/kollok2/23)
-- [Билет №16](/matan/kollok2/24)
+- [Билет №17](/matan/kollok2/17)
+- [Билет №18](/matan/kollok2/18)
+- [Билет №19](/matan/kollok2/19)
+- [Билет №20](/matan/kollok2/20)
+- [Билет №21](/matan/kollok2/21)
+- [Билет №22](/matan/kollok2/22)
+- [Билет №23](/matan/kollok2/23)
+- [Билет №24](/matan/kollok2/24)

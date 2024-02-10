@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T17:58:33.888Z
+date: 2024-02-10T17:59:07.749Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -42,12 +42,12 @@ dateCreated: 2024-02-10T14:59:30.448Z
 
 | Билет | [Последний Статус*](https://www.youtube.com/live/GVzBCGeE7Vg?si=5bZzIKPlkg59wzEG) |
 | --- | --- |
-| [Билет №1](/matan/kollok2/1) | <div class='box green'></div> |
-| [Билет №2](/matan/kollok2/2) | <div class='box orange'></div> |
-| [Билет №3](/matan/kollok2/3) | <div class='box red'></div> |
-| [Билет №4](/matan/kollok2/4) | <div class='box red'></div> |
-| [Билет №5](/matan/kollok2/5) | <div class='box red'></div> |
-| [Билет №6](/matan/kollok2/6) | <div class='box red'></div> |
+| [Билет №1](/matan/kollok2/1) | <div class='box green'>&nbsp;</div> |
+| [Билет №2](/matan/kollok2/2) | <div class='box orange'>&nbsp;</div> |
+| [Билет №3](/matan/kollok2/3) | <div class='box red'>&nbsp;</div> |
+| [Билет №4](/matan/kollok2/4) | <div class='box red'>&nbsp;</div> |
+| [Билет №5](/matan/kollok2/5) | <div class='box red'>&nbsp;</div> |
+| [Билет №6](/matan/kollok2/6) | <div class='box red'>&nbsp;</div> |
 | [Билет №7](/matan/kollok2/7) | <div class='box red'></div> |
 | [Билет №8](/matan/kollok2/8) | <div class='box red'></div> |
 | [Билет №9](/matan/kollok2/9) | <div class='box red'></div> |

@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T17:59:45.750Z
+date: 2024-02-10T18:00:35.492Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -73,7 +73,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | --- | --- |
 | <div class='box red'>&nbsp;</div> | не готово |
 | <div class='box orange'>&nbsp;</div> | в процессе |
-| <div class='box green'>&nbsp;</div> | готово, но не проверено |
-| <div class='box green'>✔️</div> | проверено |
+| <div class='box dark-green'>&nbsp;</div> | готово, но не проверено |
+| <div class='box green'>&nbsp;</div> | проверено |
 
 \* Екатерина Шульман признана Минютом РФ иногентом.

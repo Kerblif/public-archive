@@ -2,13 +2,41 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T17:56:36.483Z
+date: 2024-02-10T17:58:33.888Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
 ---
 
 # Коллоквиум №2
+
+<style>
+.box {
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  clear: both;
+  text-align: center;
+  margin: auto;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.dark-green {
+  background-color: #023020;
+}
+  
+.blue {
+  background-color: blue;
+}
+</style>
 
 В основе билетов лежит [конспект](https://github.com/i80287/Calculus-HSE-SE) [Владимира Кормилицына](https://i8088_t.t.me).
 
@@ -47,33 +75,5 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | <div class='box orange'></div> | в процессе |
 | <div class='box green'></div> | готово, но не проверено |
 | <div class='box green'>✔️</div> | проверено |
-
-<style>
-.box {
-  float: left;
-  height: 20px;
-  width: 20px;
-  margin-bottom: 15px;
-  clear: both;
-  text-align: center;
-  margin: auto;
-}
-
-.red {
-  background-color: red;
-}
-
-.green {
-  background-color: green;
-}
-
-.dark-green {
-  background-color: #023020;
-}
-  
-.blue {
-  background-color: blue;
-}
-</style>
 
 \* Екатерина Шульман признана Минютом РФ иногентом.

@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T15:21:54.446Z
+date: 2024-02-10T17:43:38.057Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -11,6 +11,11 @@ dateCreated: 2024-02-10T14:59:30.448Z
 # Коллоквиум №2
 
 В основе билетов лежит [конспект](https://github.com/i80287/Calculus-HSE-SE) [Владимира Кормилицына](https://i8088_t.t.me).
+
+| Обозначение | Пояснение |
+| --- | --- |
+| <div class='box red'></div> | не готово |
+
 
 - [Билет №1](/matan/kollok2/1)
 - [Билет №2](/matan/kollok2/2)
@@ -36,3 +41,27 @@ dateCreated: 2024-02-10T14:59:30.448Z
 - [Билет №22](/matan/kollok2/22)
 - [Билет №23](/matan/kollok2/23)
 - [Билет №24](/matan/kollok2/24)
+
+<style>
+.box {
+  float: left;
+  height: 20px;
+  width: 20px;
+  margin-bottom: 15px;
+  border: 1px solid black;
+  clear: both;
+  text-align: center;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+</style>

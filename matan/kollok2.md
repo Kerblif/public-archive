@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-10T18:00:43.601Z
+date: 2024-02-10T18:02:59.389Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -24,17 +24,17 @@ dateCreated: 2024-02-10T14:59:30.448Z
 .red {
   background-color: red;
 }
+  
+.orange {
+  background-color: orange;
+}
+
+.check-green {
+  background-color: #BFDF00;
+}
 
 .green {
   background-color: green;
-}
-
-.dark-green {
-  background-color: #023020;
-}
-  
-.blue {
-  background-color: blue;
 }
 </style>
 
@@ -42,7 +42,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 
 | Билет | [Последний Статус*](https://www.youtube.com/live/GVzBCGeE7Vg?si=5bZzIKPlkg59wzEG) |
 | --- | --- |
-| [Билет №1](/matan/kollok2/1) | <div class='box dark-green'>&nbsp;</div> |
+| [Билет №1](/matan/kollok2/1) | <div class='box check-green'>&nbsp;</div> |
 | [Билет №2](/matan/kollok2/2) | <div class='box orange'>&nbsp;</div> |
 | [Билет №3](/matan/kollok2/3) | <div class='box red'>&nbsp;</div> |
 | [Билет №4](/matan/kollok2/4) | <div class='box red'>&nbsp;</div> |
@@ -73,7 +73,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | --- | --- |
 | <div class='box red'>&nbsp;</div> | не готово |
 | <div class='box orange'>&nbsp;</div> | в процессе |
-| <div class='box dark-green'>&nbsp;</div> | готово, но не проверено |
+| <div class='box check-green'>&nbsp;</div> | готово, но не проверено |
 | <div class='box green'>&nbsp;</div> | проверено |
 
 \* Екатерина Шульман признана Минютом РФ иногентом.

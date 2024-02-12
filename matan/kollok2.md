@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-12T22:26:49.434Z
+date: 2024-02-12T22:28:14.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -14,7 +14,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 
 | Билет | [Последний Статус*](https://www.youtube.com/live/GVzBCGeE7Vg?si=5bZzIKPlkg59wzEG) |
 | --- | --- |
-| [Билет №1](/matan/kollok2/1) | <div class='box green'>&nbsp;</div> |
+| [Билет №1](/matan/kollok2/1) | <div class='box agreen'>&nbsp;</div> |
 | [Билет №2](/matan/kollok2/2) | <div class='box orange'>&nbsp;</div> |
 | [Билет №3](/matan/kollok2/3) | <div class='box orange'>&nbsp;</div> |
 | [Билет №4](/matan/kollok2/4) | <div class='box cgreen'>&nbsp;</div> |
@@ -46,6 +46,6 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | <div class='box red'>&nbsp;</div> | не готово |
 | <div class='box orange'>&nbsp;</div> | в процессе |
 | <div class='box cgreen'>&nbsp;</div> | готово, но не проверено |
-| <div class='box green'>&nbsp;</div> | проверено |
+| <div class='box agreen'>&nbsp;</div> | проверено |
 
 \* Екатерина Шульман признана Минютом РФ иногентом.

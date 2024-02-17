@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-17T20:09:26.629Z
+date: 2024-02-17T20:09:31.895Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z

@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-25T14:17:35.598Z
+date: 2024-02-25T14:24:09.626Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -20,7 +20,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | [Билет №4](/matan/kollok2/4) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №5](/matan/kollok2/5) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №6](/matan/kollok2/6) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №7](/matan/kollok2/7) | <div class='box orange'>&nbsp;</div> |
+| [Билет №7](/matan/kollok2/7) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №8](/matan/kollok2/8) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №9](/matan/kollok2/9) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №10](/matan/kollok2/10) | <div class='box cgreen'>&nbsp;</div> |

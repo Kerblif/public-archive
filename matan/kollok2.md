@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-25T14:24:09.626Z
+date: 2024-02-26T07:42:48.819Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -15,19 +15,19 @@ dateCreated: 2024-02-10T14:59:30.448Z
 | Билет | [Последний Статус*](https://www.youtube.com/live/aSUHepfYEAE?si=tfKCo9gnlJfeHZWr) |
 | --- | --- |
 | [Билет №1](/matan/kollok2/1) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №2](/matan/kollok2/2) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №3](/matan/kollok2/3) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №4](/matan/kollok2/4) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №5](/matan/kollok2/5) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №6](/matan/kollok2/6) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №7](/matan/kollok2/7) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №8](/matan/kollok2/8) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №9](/matan/kollok2/9) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №10](/matan/kollok2/10) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №11](/matan/kollok2/11) | <div class='box cgreen'>&nbsp;</div> |
+| [Билет №2](/matan/kollok2/2) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №3](/matan/kollok2/3) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №4](/matan/kollok2/4) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №5](/matan/kollok2/5) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №6](/matan/kollok2/6) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №7](/matan/kollok2/7) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №8](/matan/kollok2/8) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №9](/matan/kollok2/9) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №10](/matan/kollok2/10) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №11](/matan/kollok2/11) | <div class='box agreen'>&nbsp;</div> |
 | [Билет №12](/matan/kollok2/12) | <div class='box red'>&nbsp;</div> |
-| [Билет №13](/matan/kollok2/13) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №14](/matan/kollok2/14) | <div class='box cgreen'>&nbsp;</div> |
+| [Билет №13](/matan/kollok2/13) | <div class='box agreen'>&nbsp;</div> |
+| [Билет №14](/matan/kollok2/14) | <div class='box agreen'>&nbsp;</div> |
 | [Билет №15](/matan/kollok2/15) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №16](/matan/kollok2/16) | <div class='box cgreen'>&nbsp;</div> |
 | [Билет №17](/matan/kollok2/17) | <div class='box orange'>&nbsp;</div> |

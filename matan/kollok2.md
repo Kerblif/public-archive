@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-02-28T20:53:34.845Z
+date: 2024-03-02T22:20:20.042Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -11,6 +11,8 @@ dateCreated: 2024-02-10T14:59:30.448Z
 # Коллоквиум №2
 
 В основе билетов лежит [конспект](https://github.com/i80287/Calculus-HSE-SE) [Владимира Кормилицына](https://i8088_t.t.me).
+
+Btw, если найдете ошибки/неточности - пишите [мне](https://kerblif.t.me). 
 
 | Билет | [Последний Статус*](https://www.youtube.com/live/aSUHepfYEAE?si=tfKCo9gnlJfeHZWr) |
 | --- | --- |

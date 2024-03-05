@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-03-02T22:20:20.042Z
+date: 2024-03-05T18:58:10.246Z
 tags: 
 editor: markdown
 dateCreated: 2024-02-10T14:59:30.448Z
@@ -14,7 +14,7 @@ dateCreated: 2024-02-10T14:59:30.448Z
 
 Btw, если найдете ошибки/неточности - пишите [мне](https://kerblif.t.me). 
 
-| Билет | [Последний Статус*](https://www.youtube.com/live/aSUHepfYEAE?si=tfKCo9gnlJfeHZWr) |
+| Билет | [Последний Статус*](https://www.youtube.com/live/SkQpW476-_k?si=jt2AtbXVRQWFPtoW) |
 | --- | --- |
 | [Билет №1](/matan/kollok2/1) | <div class='box agreen'>&nbsp;</div> |
 | [Билет №2](/matan/kollok2/2) | <div class='box agreen'>&nbsp;</div> |

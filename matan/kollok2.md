@@ -2,7 +2,7 @@
 title: Коллоквиум №2
 description: 
 published: true
-date: 2024-05-04T19:52:22.124Z
+date: 2024-05-04T19:55:46.273Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-04T19:50:36.034Z
@@ -14,40 +14,27 @@ dateCreated: 2024-05-04T19:50:36.034Z
 
 Btw, если найдете ошибки/неточности - пишите [мне](https://kerblif.t.me). 
 
-| Билет | [Последний Статус*](https://www.youtube.com/live/SkQpW476-_k?si=jt2AtbXVRQWFPtoW) |
-| --- | --- |
-| [Билет №1](/matan/kollok2/1) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №2](/matan/kollok2/2) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №3](/matan/kollok2/3) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №4](/matan/kollok2/4) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №5](/matan/kollok2/5) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №6](/matan/kollok2/6) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №7](/matan/kollok2/7) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №8](/matan/kollok2/8) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №9](/matan/kollok2/9) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №10](/matan/kollok2/10) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №11](/matan/kollok2/11) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №12](/matan/kollok2/12) | <div class='box red'>&nbsp;</div> |
-| [Билет №13](/matan/kollok2/13) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №14](/matan/kollok2/14) | <div class='box agreen'>&nbsp;</div> |
-| [Билет №15](/matan/kollok2/15) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №16](/matan/kollok2/16) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №17](/matan/kollok2/17) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №18](/matan/kollok2/18) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №19](/matan/kollok2/19) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №20](/matan/kollok2/20) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №21](/matan/kollok2/21) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №22](/matan/kollok2/22) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №23](/matan/kollok2/23) | <div class='box cgreen'>&nbsp;</div> |
-| [Билет №24](/matan/kollok2/24) | <div class='box cgreen'>&nbsp;</div> |
-
-&nbsp;
-
-| Обозначение | Пояснение |
-| --- | --- |
-| <div class='box red'>&nbsp;</div> | не готово |
-| <div class='box orange'>&nbsp;</div> | в процессе |
-| <div class='box cgreen'>&nbsp;</div> | готово, но не проверено |
-| <div class='box agreen'>&nbsp;</div> | проверено |
-
-\* Екатерина Шульман признана Минютом РФ иногентом.
+* [Билет №1](/matan/kollok2/1)
+* [Билет №2](/matan/kollok2/2)
+* [Билет №3](/matan/kollok2/3)
+* [Билет №4](/matan/kollok2/4)
+* [Билет №5](/matan/kollok2/5)
+* [Билет №6](/matan/kollok2/6)
+* [Билет №7](/matan/kollok2/7)
+* [Билет №8](/matan/kollok2/8)
+* [Билет №9](/matan/kollok2/9)
+* [Билет №10](/matan/kollok2/10)
+* [Билет №11](/matan/kollok2/11)
+* [Билет №12](/matan/kollok2/12)
+* [Билет №13](/matan/kollok2/13)
+* [Билет №14](/matan/kollok2/14)
+* [Билет №15](/matan/kollok2/15)
+* [Билет №16](/matan/kollok2/16)
+* [Билет №17](/matan/kollok2/17)
+* [Билет №18](/matan/kollok2/18)
+* [Билет №19](/matan/kollok2/19)
+* [Билет №20](/matan/kollok2/20)
+* [Билет №21](/matan/kollok2/21)
+* [Билет №22](/matan/kollok2/22)
+* [Билет №23](/matan/kollok2/23)
+* [Билет №24](/matan/kollok2/24)
